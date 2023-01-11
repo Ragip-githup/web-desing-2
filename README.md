@@ -4,4 +4,4 @@
 
 <p>Benim için hata yapıp tekrar hatamı düzeltmem için zaman harcadığım proje oldu</p>
 
-![](WEP-DESİNG-2.gif)
+![](WEP-DESİGN-2.gif)
